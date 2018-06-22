@@ -1,1 +1,1 @@
-Hi guys I am practicing Git. edting from branch5 
+Hi guys I am practicing Git. edting from branch5. now editin from branch 6 
