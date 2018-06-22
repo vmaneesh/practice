@@ -1,0 +1,42 @@
+[33m983fc5e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/branch6[m[33m, [m[1;32mbranch6[m[33m)[m HEAD@{0}: rebase finished: returning to refs/heads/master
+[33m983fc5e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/branch6[m[33m, [m[1;32mbranch6[m[33m)[m HEAD@{1}: rebase: checkout branch6
+[33ma2cc7b8[m[33m ([m[1;32mbranch5[m[33m)[m HEAD@{2}: checkout: moving from branch6 to master
+[33m983fc5e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/branch6[m[33m, [m[1;32mbranch6[m[33m)[m HEAD@{3}: commit: Commit from branch6
+[33ma2cc7b8[m[33m ([m[1;32mbranch5[m[33m)[m HEAD@{4}: checkout: moving from master to branch6
+[33ma2cc7b8[m[33m ([m[1;32mbranch5[m[33m)[m HEAD@{5}: checkout: moving from branch5 to master
+[33ma2cc7b8[m[33m ([m[1;32mbranch5[m[33m)[m HEAD@{6}: rebase finished: returning to refs/heads/branch5
+[33ma2cc7b8[m[33m ([m[1;32mbranch5[m[33m)[m HEAD@{7}: rebase: checkout master
+[33me2a0e64[m[33m ([m[1;31morigin/branch5[m[33m)[m HEAD@{8}: checkout: moving from master to branch5
+[33ma2cc7b8[m[33m ([m[1;32mbranch5[m[33m)[m HEAD@{9}: merge branch5: Merge made by the 'recursive' strategy.
+[33m4bb2b70[m HEAD@{10}: checkout: moving from branch5 to master
+[33me2a0e64[m[33m ([m[1;31morigin/branch5[m[33m)[m HEAD@{11}: checkout: moving from master to branch5
+[33m4bb2b70[m HEAD@{12}: checkout: moving from branch5 to master
+[33me2a0e64[m[33m ([m[1;31morigin/branch5[m[33m)[m HEAD@{13}: checkout: moving from master to branch5
+[33m4bb2b70[m HEAD@{14}: checkout: moving from branch5 to master
+[33me2a0e64[m[33m ([m[1;31morigin/branch5[m[33m)[m HEAD@{15}: commit: Fifth
+[33m2818d5c[m[33m ([m[1;32mbranch3[m[33m)[m HEAD@{16}: checkout: moving from master to branch5
+[33m4bb2b70[m HEAD@{17}: checkout: moving from branch5 to master
+[33m2818d5c[m[33m ([m[1;32mbranch3[m[33m)[m HEAD@{18}: checkout: moving from branch3 to branch5
+[33m2818d5c[m[33m ([m[1;32mbranch3[m[33m)[m HEAD@{19}: checkout: moving from master to branch3
+[33m4bb2b70[m HEAD@{20}: merge branch3: Merge made by the 'recursive' strategy.
+[33mdcf1fe7[m[33m ([m[1;32mbranch2[m[33m)[m HEAD@{21}: checkout: moving from branch3 to master
+[33m2818d5c[m[33m ([m[1;32mbranch3[m[33m)[m HEAD@{22}: commit: Fourth commit
+[33mdcf1fe7[m[33m ([m[1;32mbranch2[m[33m)[m HEAD@{23}: checkout: moving from master to branch3
+[33mdcf1fe7[m[33m ([m[1;32mbranch2[m[33m)[m HEAD@{24}: merge branch2: Fast-forward
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{25}: checkout: moving from branch2 to master
+[33mdcf1fe7[m[33m ([m[1;32mbranch2[m[33m)[m HEAD@{26}: commit: Third Commit
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{27}: checkout: moving from master to branch2
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{28}: checkout: moving from branch1 to master
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{29}: checkout: moving from branch2 to branch1
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{30}: checkout: moving from master to branch2
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{31}: checkout: moving from branch1 to master
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{32}: checkout: moving from master to branch1
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{33}: checkout: moving from branch1 to master
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{34}: merge master: Fast-forward
+[33m36595dc[m HEAD@{35}: checkout: moving from master to branch1
+[33m2a141ba[m[33m ([m[1;32mbranch1[m[33m)[m HEAD@{36}: commit: Second commit
+[33m36595dc[m HEAD@{37}: checkout: moving from branch1 to master
+[33m36595dc[m HEAD@{38}: checkout: moving from master to branch1
+[33m36595dc[m HEAD@{39}: checkout: moving from branch1 to master
+[33m36595dc[m HEAD@{40}: checkout: moving from master to branch1
+[33m36595dc[m HEAD@{41}: commit (initial): First commit
